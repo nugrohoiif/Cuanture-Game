@@ -1,0 +1,6 @@
+{
+  "name": "Aether Isle: Skyward Explorer",
+  "description": "A 3D floating island exploration mini-game built with React Three Fiber, Three.js, and Drei featuring smooth third-person character physics and follow camera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
